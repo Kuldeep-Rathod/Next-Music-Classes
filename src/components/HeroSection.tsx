@@ -1,5 +1,3 @@
-"use client";
-
 import { Spotlight } from "./ui/Spotlight";
 import { HoverBorderGradient } from "./ui/hover-border-gradient";
 
@@ -27,7 +25,7 @@ const HeroSection = () => {
                         as="button"
                         className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2"
                     >
-                        <span>Aceternity UI</span>
+                        <span>Explore Courses</span>
                     </HoverBorderGradient>
                 </div>
             </div>
